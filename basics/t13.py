@@ -18,5 +18,5 @@ for i in range(50):
     for i in range(6):
         circle(radius)
         left(60)
-        end_fill()
+    end_fill()
 mainloop()
